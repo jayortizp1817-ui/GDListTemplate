@@ -1,18 +1,14 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 56,
-    "password": "Not Copyable",
+    "id": 70627398,
+    "name": "Night Show",
+    "author": "Vortrox",
+    "creators": ["Vortrox"],
+    "verifier": "Vortrox",
+    "verification": "https://youtu.be/XMFSD8q2tOs?is=pivYtgcA-9eo1Wwr",
+    "percentToQualify": 100,
+    "password": "Free",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
-        }
+  
     ]
 }
